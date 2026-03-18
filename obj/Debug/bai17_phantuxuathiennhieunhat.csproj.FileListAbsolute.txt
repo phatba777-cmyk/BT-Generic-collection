@@ -1,0 +1,7 @@
+E:\bai17_phantuxuathiennhieunhat\bin\Debug\bai17_phantuxuathiennhieunhat.exe.config
+E:\bai17_phantuxuathiennhieunhat\bin\Debug\bai17_phantuxuathiennhieunhat.exe
+E:\bai17_phantuxuathiennhieunhat\bin\Debug\bai17_phantuxuathiennhieunhat.pdb
+E:\bai17_phantuxuathiennhieunhat\obj\Debug\bai17_phantuxuathiennhieunhat.csproj.AssemblyReference.cache
+E:\bai17_phantuxuathiennhieunhat\obj\Debug\bai17_phantuxuathiennhieunhat.csproj.CoreCompileInputs.cache
+E:\bai17_phantuxuathiennhieunhat\obj\Debug\bai17_phantuxuathiennhieunhat.exe
+E:\bai17_phantuxuathiennhieunhat\obj\Debug\bai17_phantuxuathiennhieunhat.pdb

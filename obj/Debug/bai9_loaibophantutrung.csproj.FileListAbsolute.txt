@@ -1,0 +1,7 @@
+E:\bai9_loaibophantutrung\bin\Debug\bai9_loaibophantutrung.exe.config
+E:\bai9_loaibophantutrung\bin\Debug\bai9_loaibophantutrung.exe
+E:\bai9_loaibophantutrung\bin\Debug\bai9_loaibophantutrung.pdb
+E:\bai9_loaibophantutrung\obj\Debug\bai9_loaibophantutrung.csproj.AssemblyReference.cache
+E:\bai9_loaibophantutrung\obj\Debug\bai9_loaibophantutrung.csproj.CoreCompileInputs.cache
+E:\bai9_loaibophantutrung\obj\Debug\bai9_loaibophantutrung.exe
+E:\bai9_loaibophantutrung\obj\Debug\bai9_loaibophantutrung.pdb

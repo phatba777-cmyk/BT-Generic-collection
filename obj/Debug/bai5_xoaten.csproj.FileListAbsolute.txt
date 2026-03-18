@@ -1,0 +1,7 @@
+E:\bai5_xoaten\obj\Debug\bai5_xoaten.csproj.AssemblyReference.cache
+E:\bai5_xoaten\obj\Debug\bai5_xoaten.csproj.CoreCompileInputs.cache
+E:\bai5_xoaten\bin\Debug\bai5_xoaten.exe.config
+E:\bai5_xoaten\bin\Debug\bai5_xoaten.exe
+E:\bai5_xoaten\bin\Debug\bai5_xoaten.pdb
+E:\bai5_xoaten\obj\Debug\bai5_xoaten.exe
+E:\bai5_xoaten\obj\Debug\bai5_xoaten.pdb

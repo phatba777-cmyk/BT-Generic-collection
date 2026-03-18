@@ -1,0 +1,7 @@
+E:\bai6_kiemtratontai\bin\Debug\bai6_kiemtratontai.exe.config
+E:\bai6_kiemtratontai\bin\Debug\bai6_kiemtratontai.exe
+E:\bai6_kiemtratontai\bin\Debug\bai6_kiemtratontai.pdb
+E:\bai6_kiemtratontai\obj\Debug\bai6_kiemtratontai.csproj.AssemblyReference.cache
+E:\bai6_kiemtratontai\obj\Debug\bai6_kiemtratontai.csproj.CoreCompileInputs.cache
+E:\bai6_kiemtratontai\obj\Debug\bai6_kiemtratontai.exe
+E:\bai6_kiemtratontai\obj\Debug\bai6_kiemtratontai.pdb

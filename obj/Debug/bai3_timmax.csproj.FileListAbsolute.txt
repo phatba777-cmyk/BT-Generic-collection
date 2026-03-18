@@ -1,0 +1,7 @@
+E:\bai3_timmax\bin\Debug\bai3_timmax.exe.config
+E:\bai3_timmax\bin\Debug\bai3_timmax.exe
+E:\bai3_timmax\bin\Debug\bai3_timmax.pdb
+E:\bai3_timmax\obj\Debug\bai3_timmax.csproj.AssemblyReference.cache
+E:\bai3_timmax\obj\Debug\bai3_timmax.csproj.CoreCompileInputs.cache
+E:\bai3_timmax\obj\Debug\bai3_timmax.exe
+E:\bai3_timmax\obj\Debug\bai3_timmax.pdb

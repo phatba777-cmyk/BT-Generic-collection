@@ -1,0 +1,7 @@
+E:\bai18_sinhviencodiemcaonhat\bin\Debug\bai18_sinhviencodiemcaonhat.exe.config
+E:\bai18_sinhviencodiemcaonhat\bin\Debug\bai18_sinhviencodiemcaonhat.exe
+E:\bai18_sinhviencodiemcaonhat\bin\Debug\bai18_sinhviencodiemcaonhat.pdb
+E:\bai18_sinhviencodiemcaonhat\obj\Debug\bai18_sinhviencodiemcaonhat.csproj.AssemblyReference.cache
+E:\bai18_sinhviencodiemcaonhat\obj\Debug\bai18_sinhviencodiemcaonhat.csproj.CoreCompileInputs.cache
+E:\bai18_sinhviencodiemcaonhat\obj\Debug\bai18_sinhviencodiemcaonhat.exe
+E:\bai18_sinhviencodiemcaonhat\obj\Debug\bai18_sinhviencodiemcaonhat.pdb

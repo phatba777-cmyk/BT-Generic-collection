@@ -1,0 +1,7 @@
+E:\bai16_solanxuathien\bin\Debug\bai16_solanxuathien.exe.config
+E:\bai16_solanxuathien\bin\Debug\bai16_solanxuathien.exe
+E:\bai16_solanxuathien\bin\Debug\bai16_solanxuathien.pdb
+E:\bai16_solanxuathien\obj\Debug\bai16_solanxuathien.csproj.AssemblyReference.cache
+E:\bai16_solanxuathien\obj\Debug\bai16_solanxuathien.csproj.CoreCompileInputs.cache
+E:\bai16_solanxuathien\obj\Debug\bai16_solanxuathien.exe
+E:\bai16_solanxuathien\obj\Debug\bai16_solanxuathien.pdb

@@ -1,0 +1,7 @@
+E:\bai15_Dictionary\bin\Debug\bai15_Dictionary.exe.config
+E:\bai15_Dictionary\bin\Debug\bai15_Dictionary.exe
+E:\bai15_Dictionary\bin\Debug\bai15_Dictionary.pdb
+E:\bai15_Dictionary\obj\Debug\bai15_Dictionary.csproj.AssemblyReference.cache
+E:\bai15_Dictionary\obj\Debug\bai15_Dictionary.csproj.CoreCompileInputs.cache
+E:\bai15_Dictionary\obj\Debug\bai15_Dictionary.exe
+E:\bai15_Dictionary\obj\Debug\bai15_Dictionary.pdb

@@ -1,0 +1,7 @@
+E:\bai14_xoasinhvientheoID\bin\Debug\bai14_xoasinhvientheoID.exe.config
+E:\bai14_xoasinhvientheoID\bin\Debug\bai14_xoasinhvientheoID.exe
+E:\bai14_xoasinhvientheoID\bin\Debug\bai14_xoasinhvientheoID.pdb
+E:\bai14_xoasinhvientheoID\obj\Debug\bai14_xoasinhvientheoID.csproj.AssemblyReference.cache
+E:\bai14_xoasinhvientheoID\obj\Debug\bai14_xoasinhvientheoID.csproj.CoreCompileInputs.cache
+E:\bai14_xoasinhvientheoID\obj\Debug\bai14_xoasinhvientheoID.exe
+E:\bai14_xoasinhvientheoID\obj\Debug\bai14_xoasinhvientheoID.pdb

@@ -1,0 +1,7 @@
+E:\bai8_daonguoc\bin\Debug\bai8_daonguoc.exe.config
+E:\bai8_daonguoc\bin\Debug\bai8_daonguoc.exe
+E:\bai8_daonguoc\bin\Debug\bai8_daonguoc.pdb
+E:\bai8_daonguoc\obj\Debug\bai8_daonguoc.csproj.AssemblyReference.cache
+E:\bai8_daonguoc\obj\Debug\bai8_daonguoc.csproj.CoreCompileInputs.cache
+E:\bai8_daonguoc\obj\Debug\bai8_daonguoc.exe
+E:\bai8_daonguoc\obj\Debug\bai8_daonguoc.pdb

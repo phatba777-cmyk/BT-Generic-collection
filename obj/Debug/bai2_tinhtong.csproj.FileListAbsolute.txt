@@ -1,0 +1,7 @@
+E:\bai2_tinhtong\bin\Debug\bai2_tinhtong.exe.config
+E:\bai2_tinhtong\bin\Debug\bai2_tinhtong.exe
+E:\bai2_tinhtong\bin\Debug\bai2_tinhtong.pdb
+E:\bai2_tinhtong\obj\Debug\bai2_tinhtong.csproj.AssemblyReference.cache
+E:\bai2_tinhtong\obj\Debug\bai2_tinhtong.csproj.CoreCompileInputs.cache
+E:\bai2_tinhtong\obj\Debug\bai2_tinhtong.exe
+E:\bai2_tinhtong\obj\Debug\bai2_tinhtong.pdb

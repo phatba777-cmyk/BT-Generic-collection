@@ -1,0 +1,7 @@
+E:\bai7_sapxep\bin\Debug\bai7_sapxep.exe.config
+E:\bai7_sapxep\bin\Debug\bai7_sapxep.exe
+E:\bai7_sapxep\bin\Debug\bai7_sapxep.pdb
+E:\bai7_sapxep\obj\Debug\bai7_sapxep.csproj.AssemblyReference.cache
+E:\bai7_sapxep\obj\Debug\bai7_sapxep.csproj.CoreCompileInputs.cache
+E:\bai7_sapxep\obj\Debug\bai7_sapxep.exe
+E:\bai7_sapxep\obj\Debug\bai7_sapxep.pdb

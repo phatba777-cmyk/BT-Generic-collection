@@ -1,0 +1,7 @@
+E:\bai11_nhapsinhvien\bin\Debug\bai11_nhapsinhvien.exe.config
+E:\bai11_nhapsinhvien\bin\Debug\bai11_nhapsinhvien.exe
+E:\bai11_nhapsinhvien\bin\Debug\bai11_nhapsinhvien.pdb
+E:\bai11_nhapsinhvien\obj\Debug\bai11_nhapsinhvien.csproj.AssemblyReference.cache
+E:\bai11_nhapsinhvien\obj\Debug\bai11_nhapsinhvien.csproj.CoreCompileInputs.cache
+E:\bai11_nhapsinhvien\obj\Debug\bai11_nhapsinhvien.exe
+E:\bai11_nhapsinhvien\obj\Debug\bai11_nhapsinhvien.pdb

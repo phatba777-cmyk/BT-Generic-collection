@@ -1,0 +1,7 @@
+E:\bai1_taodanhsachsonguyen\bin\Debug\bai1_taodanhsachsonguyen.exe.config
+E:\bai1_taodanhsachsonguyen\bin\Debug\bai1_taodanhsachsonguyen.exe
+E:\bai1_taodanhsachsonguyen\bin\Debug\bai1_taodanhsachsonguyen.pdb
+E:\bai1_taodanhsachsonguyen\obj\Debug\bai1_taodanhsachsonguyen.csproj.AssemblyReference.cache
+E:\bai1_taodanhsachsonguyen\obj\Debug\bai1_taodanhsachsonguyen.csproj.CoreCompileInputs.cache
+E:\bai1_taodanhsachsonguyen\obj\Debug\bai1_taodanhsachsonguyen.exe
+E:\bai1_taodanhsachsonguyen\obj\Debug\bai1_taodanhsachsonguyen.pdb

@@ -1,0 +1,7 @@
+E:\bai4_demsochan\bin\Debug\bai4_demsochan.exe.config
+E:\bai4_demsochan\bin\Debug\bai4_demsochan.exe
+E:\bai4_demsochan\bin\Debug\bai4_demsochan.pdb
+E:\bai4_demsochan\obj\Debug\bai4_demsochan.csproj.AssemblyReference.cache
+E:\bai4_demsochan\obj\Debug\bai4_demsochan.csproj.CoreCompileInputs.cache
+E:\bai4_demsochan\obj\Debug\bai4_demsochan.exe
+E:\bai4_demsochan\obj\Debug\bai4_demsochan.pdb

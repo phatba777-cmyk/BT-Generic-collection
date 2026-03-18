@@ -1,0 +1,7 @@
+E:\bai10_min\bin\Debug\bai10_min.exe.config
+E:\bai10_min\bin\Debug\bai10_min.exe
+E:\bai10_min\bin\Debug\bai10_min.pdb
+E:\bai10_min\obj\Debug\bai10_min.csproj.AssemblyReference.cache
+E:\bai10_min\obj\Debug\bai10_min.csproj.CoreCompileInputs.cache
+E:\bai10_min\obj\Debug\bai10_min.exe
+E:\bai10_min\obj\Debug\bai10_min.pdb

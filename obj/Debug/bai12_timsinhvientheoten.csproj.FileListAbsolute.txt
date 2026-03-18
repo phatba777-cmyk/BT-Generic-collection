@@ -1,0 +1,7 @@
+E:\bai12_timsinhvientheoten\bin\Debug\bai12_timsinhvientheoten.exe.config
+E:\bai12_timsinhvientheoten\bin\Debug\bai12_timsinhvientheoten.exe
+E:\bai12_timsinhvientheoten\bin\Debug\bai12_timsinhvientheoten.pdb
+E:\bai12_timsinhvientheoten\obj\Debug\bai12_timsinhvientheoten.csproj.AssemblyReference.cache
+E:\bai12_timsinhvientheoten\obj\Debug\bai12_timsinhvientheoten.csproj.CoreCompileInputs.cache
+E:\bai12_timsinhvientheoten\obj\Debug\bai12_timsinhvientheoten.exe
+E:\bai12_timsinhvientheoten\obj\Debug\bai12_timsinhvientheoten.pdb

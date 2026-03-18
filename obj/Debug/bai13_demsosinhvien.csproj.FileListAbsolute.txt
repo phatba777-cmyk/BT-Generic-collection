@@ -1,0 +1,7 @@
+E:\bai13_demsosinhvien\bin\Debug\bai13_demsosinhvien.exe.config
+E:\bai13_demsosinhvien\bin\Debug\bai13_demsosinhvien.exe
+E:\bai13_demsosinhvien\bin\Debug\bai13_demsosinhvien.pdb
+E:\bai13_demsosinhvien\obj\Debug\bai13_demsosinhvien.csproj.AssemblyReference.cache
+E:\bai13_demsosinhvien\obj\Debug\bai13_demsosinhvien.csproj.CoreCompileInputs.cache
+E:\bai13_demsosinhvien\obj\Debug\bai13_demsosinhvien.exe
+E:\bai13_demsosinhvien\obj\Debug\bai13_demsosinhvien.pdb
